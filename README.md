@@ -1,6 +1,5 @@
-# honeycrud 
+# honeycrud - Honeycomb.io Reference Implementation
 
-## Honeycomb.io Reference Implementation
 ## OpenTelemetry for Python
 
 https://docs.honeycomb.io/getting-data-in/opentelemetry/python/
